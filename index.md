@@ -15,7 +15,7 @@ Subpage:
 [subpage](subpage.html)
 
 Stations:
-[stations](point_stations.html)
+[stations](stations-map.html)
 
 Embedded iframe:
 <iframe src="point_stations.html" width="600" height="300" title="City Bike stations in Helsinki Area ">
