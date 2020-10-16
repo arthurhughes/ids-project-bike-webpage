@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+# Helsinki City Bikes
+## Heading 2
 
-You can use the [editor on GitHub](https://github.com/silvianeps/ids-project-bike-webpage/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This is a **bold** text and *italics* text.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+List:
+* Item 1
+* Item 2
+  * Item 2a
 
-### Markdown
+Image:
+![Example image of stations](/point_stations.png)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Subpage:
+[subpage](subpage.html)
 
-```markdown
-Syntax highlighted code block
+Stations:
+[stations](point_stations.html)
 
-# Header 1
-## Header 2
-### Header 3
+Embedded iframe:
+<iframe src="point_stations.html" width="600" height="300" title="City Bike stations in Helsinki Area ">
+</iframe>
 
-- Bulleted
-- List
+Table:
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/silvianeps/ids-project-bike-webpage/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
