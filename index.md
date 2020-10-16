@@ -9,7 +9,7 @@ List:
   * Item 2a
 
 Image:
-![Example image of stations](/point_stations.png)
+![Example image of stations](/stations_image.png)
 
 Subpage:
 [subpage](subpage.html)
@@ -18,7 +18,7 @@ Stations:
 [stations](stations-map.html)
 
 Embedded iframe:
-<iframe src="point_stations.html" width="600" height="300" title="City Bike stations in Helsinki Area ">
+<iframe src="stations_map.html" width="600" height="300" title="City Bike stations in Helsinki Area ">
 </iframe>
 
 Table:
