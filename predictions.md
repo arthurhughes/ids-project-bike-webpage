@@ -1,0 +1,1 @@
+Predictions text in Markdown

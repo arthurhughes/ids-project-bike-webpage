@@ -1,0 +1,12 @@
+# Site navigation links
+- title: Home
+  url: /
+
+- title: Overview
+  url: /overview/
+
+- title: Visualisations
+  url: /visualisations/
+
+- title: Predictions
+  url: /predictions/
