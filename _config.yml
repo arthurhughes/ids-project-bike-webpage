@@ -2,4 +2,4 @@ theme: jekyll-theme-slate
 # the title and description shown in the top bar
 title: [Helsinki City Bikes Analysis]
 description: ["by Rasmus Backholm, Arhur Hughes, Silvia Nepsinska"]
-baseurl: "ids-project-bike-webpage/"
+baseurl: "/ids-project-bike-webpage"
