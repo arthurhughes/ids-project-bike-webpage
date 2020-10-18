@@ -8,3 +8,11 @@ Heat map for average Monday
 <iframe src="{{ site.baseurl }}/images/heat_maps_weekdays/average_monday.html" 
 width="800" height="400" title="City Bike stations in Helsinki Area ">
 </iframe>
+
+<iframe src="{{ site.url }}/images/heat_maps_weekdays/average_monday.html" 
+width="800" height="400" title="City Bike stations in Helsinki Area ">
+</iframe>
+
+<iframe src="{{ '/images/heat_maps_weekdays/average_monday.html' | relative_url }}" 
+width="800" height="400" title="City Bike stations in Helsinki Area ">
+</iframe>
